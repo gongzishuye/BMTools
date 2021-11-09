@@ -9,4 +9,4 @@ thirdparty
 *.swp
 python/bmservice/lib
 *.autosave
-.idea
+.idea/
