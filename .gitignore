@@ -1,0 +1,12 @@
+build*
+*.user
+*.user.*
+.vscode
+models
+data
+__*__
+thirdparty
+*.swp
+python/bmservice/lib
+*.autosave
+
